@@ -1,0 +1,12 @@
+[
+  {
+    "username": "test",
+    "password": "123",
+    "bgSetting": "img",
+    "bgImg": "q2a.jpg",
+    "bgColor": "dc7979",
+    "pfp": "calcq3.jpg",
+    "description": "very sad :(",
+    "textColor": "000000"
+  }
+]
